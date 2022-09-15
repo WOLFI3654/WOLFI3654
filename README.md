@@ -14,6 +14,3 @@
 ![Snake](https://github.com/wolfi3654/wolfi3654/blob/output/github-contribution-grid-snake.gif)
 
 ---
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
