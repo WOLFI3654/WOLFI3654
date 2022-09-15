@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on software
-- 💬 Ask me about: Java
+- 💬 Ask me about: Minecraft and C++ Development
 - 📫 How to reach me: Everywhere
 - 😄 Pronouns: Any
 - ⚡ Fun fact: :shark:
